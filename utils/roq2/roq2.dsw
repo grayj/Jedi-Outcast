@@ -1,0 +1,132 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "jpeg"=.\jpeg\jpeg.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2/jpeg", VKRAAAAA
+    .\jpeg
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "libim"=.\libim\libim.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2/libim", UKRAAAAA
+    .\libim
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "libsdsc"=.\libsdsc\libsdsc.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2/libsdsc", JKRAAAAA
+    .\libsdsc
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "main"=.\main\main.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2/main", GHRAAAAA
+    .\main
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name jpeg
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name libim
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name libsdsc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name mpeg
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tiff
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "mpeg"=.\mpeg\mpeg.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2/mpeg", JIRAAAAA
+    .\mpeg
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "tiff"=.\tiff\tiff.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2/tiff", CJRAAAAA
+    .\tiff
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/roq2", EHRAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

@@ -1,0 +1,351 @@
+logfile opened on Mon Feb 18 22:49:37 2002
+
+]\hunksmalllog
+
+================
+Hunk Small log
+================
+size =     6032: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2699 (size)
+size =    54120: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2694 (sizeof( stages[i] ))
+size =    86184: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2650 (sizeof( shader_t ))
+size =       72: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 621 (sizeof( modelHash_t ))
+size =      272: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 578 (sizeof( *tr.models[tr.numModels] ))
+size =        8: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2627 (sizeof( *skin->surfaces ))
+size =      264: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2624 (sizeof( skin_t ))
+size =    12968: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3787 (size * sizeof(char *))
+size =   393864: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3744 (sum + numShaders*2)
+size =  1252520: c:\projects\jk2\code-mp\renderer\tr_init.cpp, line: 1053 (sizeof( *backEndData[0] ) + sizeof(srfPoly_t) * max_polys + sizeof(polyVert_t) * max_polyverts)
+1806304 Hunk memory
+10 hunk blocks
+]\logfile 0
+]\hunksmalllog 
+
+================
+Hunk Small log
+================
+size =     6032: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2699 (size)
+size =    54120: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2694 (sizeof( stages[i] ))
+size =    86184: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2650 (sizeof( shader_t ))
+size =       72: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 621 (sizeof( modelHash_t ))
+size =      272: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 578 (sizeof( *tr.models[tr.numModels] ))
+size =        8: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2627 (sizeof( *skin->surfaces ))
+size =      264: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2624 (sizeof( skin_t ))
+size =    12968: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3787 (size * sizeof(char *))
+size =   393864: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3744 (sum + numShaders*2)
+size =  1252520: c:\projects\jk2\code-mp\renderer\tr_init.cpp, line: 1053 (sizeof( *backEndData[0] ) + sizeof(srfPoly_t) * max_polys + sizeof(polyVert_t) * max_polyverts)
+1806304 Hunk memory
+10 hunk blocks
+]\logfile 2
+]\hunksmalllog 
+
+================
+Hunk Small log
+================
+size =     6032: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2699 (size)
+size =    54120: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2694 (sizeof( stages[i] ))
+size =    86184: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2650 (sizeof( shader_t ))
+size =       72: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 621 (sizeof( modelHash_t ))
+size =      272: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 578 (sizeof( *tr.models[tr.numModels] ))
+size =        8: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2627 (sizeof( *skin->surfaces ))
+size =      264: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2624 (sizeof( skin_t ))
+size =    12968: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3787 (size * sizeof(char *))
+size =   393864: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3744 (sum + numShaders*2)
+size =  1252520: c:\projects\jk2\code-mp\renderer\tr_init.cpp, line: 1053 (sizeof( *backEndData[0] ) + sizeof(srfPoly_t) * max_polys + sizeof(polyVert_t) * max_polyverts)
+1806304 Hunk memory
+10 hunk blocks
+]\dedicated 1
+dedicated will be changed upon restarting.
+----- CL_Shutdown -----
+RE_Shutdown( 0 )
+RE_Shutdown( 1 )
+Shutting down OpenGL subsystem
+...wglMakeCurrent( NULL, NULL ): success
+...deleting GL context: success
+...releasing DC: success
+...destroying window
+...shutting down QGL
+...unloading OpenGL DLL
+-----------------------
+Hitch warning: 1943 msec frame time
+
+================
+Hunk Small log
+================
+size =     6032: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2699 (size)
+size =    54120: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2694 (sizeof( stages[i] ))
+size =    86184: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2650 (sizeof( shader_t ))
+size =       72: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 621 (sizeof( modelHash_t ))
+size =      272: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 578 (sizeof( *tr.models[tr.numModels] ))
+size =        8: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2627 (sizeof( *skin->surfaces ))
+size =      264: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2624 (sizeof( skin_t ))
+size =    12968: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3787 (size * sizeof(char *))
+size =   393864: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3744 (sum + numShaders*2)
+size =  1252520: c:\projects\jk2\code-mp\renderer\tr_init.cpp, line: 1053 (sizeof( *backEndData[0] ) + sizeof(srfPoly_t) * max_polys + sizeof(polyVert_t) * max_polyverts)
+1806304 Hunk memory
+10 hunk blocks
+Hitch warning: 1869 msec frame time
+dedicated will be changed upon restarting.
+----- Client Initialization -----
+Cmd_AddCommand: toggleconsole already defined
+Cmd_AddCommand: messagemode already defined
+Cmd_AddCommand: messagemode2 already defined
+Cmd_AddCommand: messagemode3 already defined
+Cmd_AddCommand: messagemode4 already defined
+Cmd_AddCommand: clear already defined
+Cmd_AddCommand: condump already defined
+Cmd_AddCommand: centerview already defined
+Cmd_AddCommand: +taunt already defined
+Cmd_AddCommand: -taunt already defined
+Cmd_AddCommand: +moveup already defined
+Cmd_AddCommand: -moveup already defined
+Cmd_AddCommand: +movedown already defined
+Cmd_AddCommand: -movedown already defined
+Cmd_AddCommand: +left already defined
+Cmd_AddCommand: -left already defined
+Cmd_AddCommand: +right already defined
+Cmd_AddCommand: -right already defined
+Cmd_AddCommand: +forward already defined
+Cmd_AddCommand: -forward already defined
+Cmd_AddCommand: +back already defined
+Cmd_AddCommand: -back already defined
+Cmd_AddCommand: +lookup already defined
+Cmd_AddCommand: -lookup already defined
+Cmd_AddCommand: +lookdown already defined
+Cmd_AddCommand: -lookdown already defined
+Cmd_AddCommand: +strafe already defined
+Cmd_AddCommand: -strafe already defined
+Cmd_AddCommand: +moveleft already defined
+Cmd_AddCommand: -moveleft already defined
+Cmd_AddCommand: +moveright already defined
+Cmd_AddCommand: -moveright already defined
+Cmd_AddCommand: +speed already defined
+Cmd_AddCommand: -speed already defined
+Cmd_AddCommand: +attack already defined
+Cmd_AddCommand: -attack already defined
+Cmd_AddCommand: +use already defined
+Cmd_AddCommand: -use already defined
+Cmd_AddCommand: +force_grip already defined
+Cmd_AddCommand: -force_grip already defined
+Cmd_AddCommand: +altattack already defined
+Cmd_AddCommand: -altattack already defined
+Cmd_AddCommand: +useforce already defined
+Cmd_AddCommand: -useforce already defined
+Cmd_AddCommand: +force_lightning already defined
+Cmd_AddCommand: -force_lightning already defined
+Cmd_AddCommand: +force_drain already defined
+Cmd_AddCommand: -force_drain already defined
+Cmd_AddCommand: +button0 already defined
+Cmd_AddCommand: -button0 already defined
+Cmd_AddCommand: +button1 already defined
+Cmd_AddCommand: -button1 already defined
+Cmd_AddCommand: +button2 already defined
+Cmd_AddCommand: -button2 already defined
+Cmd_AddCommand: +button3 already defined
+Cmd_AddCommand: -button3 already defined
+Cmd_AddCommand: +button4 already defined
+Cmd_AddCommand: -button4 already defined
+Cmd_AddCommand: +button5 already defined
+Cmd_AddCommand: -button5 already defined
+Cmd_AddCommand: +button6 already defined
+Cmd_AddCommand: -button6 already defined
+Cmd_AddCommand: +button7 already defined
+Cmd_AddCommand: -button7 already defined
+Cmd_AddCommand: +button8 already defined
+Cmd_AddCommand: -button8 already defined
+Cmd_AddCommand: +button9 already defined
+Cmd_AddCommand: -button9 already defined
+Cmd_AddCommand: +button10 already defined
+Cmd_AddCommand: -button10 already defined
+Cmd_AddCommand: +button11 already defined
+Cmd_AddCommand: -button11 already defined
+Cmd_AddCommand: +button12 already defined
+Cmd_AddCommand: -button12 already defined
+Cmd_AddCommand: +button13 already defined
+Cmd_AddCommand: -button13 already defined
+Cmd_AddCommand: +button14 already defined
+Cmd_AddCommand: -button14 already defined
+Cmd_AddCommand: +mlook already defined
+Cmd_AddCommand: -mlook already defined
+Cmd_AddCommand: sv_saberswitch already defined
+Cmd_AddCommand: engage_duel already defined
+Cmd_AddCommand: force_heal already defined
+Cmd_AddCommand: force_speed already defined
+Cmd_AddCommand: force_pull already defined
+Cmd_AddCommand: force_distract already defined
+Cmd_AddCommand: force_rage already defined
+Cmd_AddCommand: force_protect already defined
+Cmd_AddCommand: force_absorb already defined
+Cmd_AddCommand: force_healother already defined
+Cmd_AddCommand: force_forcepowerother already defined
+Cmd_AddCommand: force_seeing already defined
+Cmd_AddCommand: use_seeker already defined
+Cmd_AddCommand: use_field already defined
+Cmd_AddCommand: use_bacta already defined
+Cmd_AddCommand: use_electrobinoculars already defined
+Cmd_AddCommand: zoom already defined
+Cmd_AddCommand: use_sentry already defined
+Cmd_AddCommand: saberAttackCycle already defined
+Cmd_AddCommand: force_throw already defined
+Cmd_AddCommand: clientinfo already defined
+Cmd_AddCommand: reconnect already defined
+Cmd_AddCommand: fs_openedList already defined
+Cmd_AddCommand: fs_referencedList already defined
+----- Initializing Renderer ----
+-------------------------------
+----- Client Initialization Complete -----
+----- R_Init -----
+Cmd_AddCommand: screenshot_tga already defined
+Initializing OpenGL subsystem
+...initializing QGL
+...calling LoadLibrary( 'C:\WINDOWS\System32\opengl32.dll' ): succeeded
+...setting mode 3: 640 480 W
+...created window@0,0 (646x512)
+Initializing OpenGL driver
+...getting DC: succeeded
+...GLW_ChoosePFD( 32, 24, 8 )
+...50 PFDs found
+...hardware acceleration found
+...PIXELFORMAT 8 selected
+...creating GL context: succeeded
+...making context current: succeeded
+Initializing OpenGL extensions
+...GL_S3_s3tc available
+...GL_EXT_texture_compression_s3tc available
+...no tc preference specified
+.....using GL_EXT_texture_compression_s3tc
+...using GL_EXT_texture_env_add
+...GL_EXT_texture_filter_anisotropic available
+...using GL_EXT_texture_filter_anisotropic
+...Using GL_EXT_texture_edge_clamp
+...using WGL_EXT_swap_control
+...using GL_ARB_multitexture
+...using GL_EXT_compiled_vertex_array
+...using GL_EXT_point_parameters
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce2 MX/AGP/SSE2
+GL_VERSION: 1.3.0
+GL_EXTENSIONS: GL_ARB_imaging GL_ARB_multitexture GL_ARB_texture_compression GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_transpose_matrix GL_S3_s3tc GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_packed_pixels GL_EXT_paletted_texture GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_specular_color GL_EXT_shared_texture_palette GL_EXT_stencil_wrap GL_EXT_texture_compression_s3tc GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_cube_map GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_vertex_weighting GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_evaluators GL_NV_fence GL_NV_fog_distance GL_NV_light_max_exponent GL_NV_packed_depth_stencil GL_NV_register_combiners GL_NV_texgen_emboss GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_NV_texture_rectangle GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_program GL_SGIS_generate_mipmap GL_SGIS_multitexture GL_SGIS_texture_lod GL_WIN_swap_hint WGL_EXT_swap_control 
+GL_MAX_TEXTURE_SIZE: 2048
+GL_MAX_ACTIVE_TEXTURES_ARB: 2
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(8-bits)
+MODE: 3, 640 x 480 windowed hz:60
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium IV
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 0
+texture bits: 0
+lightmap texture bits: 0
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: enabled
+compressed lightmaps: disabled
+texture compression method: GL_EXT_texture_compression_s3tc
+anisotropic filtering: enabled
+Initializing Shaders
+...loading 'shaders/zoom.shader'
+...loading 'shaders/yavin.shader'
+...loading 'shaders/ui.shader'
+...loading 'shaders/test.shader'
+...loading 'shaders/system.shader'
+...loading 'shaders/sprites.shader'
+...loading 'shaders/skies.shader'
+...loading 'shaders/scavenger.shader'
+...loading 'shaders/sabers.shader'
+...loading 'shaders/players.shader'
+...loading 'shaders/nar_shaddaa.shader'
+...loading 'shaders/mp.shader'
+...loading 'shaders/models.shader'
+...loading 'shaders/metashader.shader'
+...loading 'shaders/marks.shader'
+...loading 'shaders/jeffd_test.shader'
+...loading 'shaders/items.shader'
+...loading 'shaders/imperial.shader'
+...loading 'shaders/gfx.shader'
+...loading 'shaders/fogs.shader'
+...loading 'shaders/flares.shader'
+...loading 'shaders/explosions.shader'
+...loading 'shaders/effects.shader'
+...loading 'shaders/doomgiver.shader'
+...loading 'shaders/decals.shader'
+...loading 'shaders/common.shader'
+...loading 'shaders/cinematics.shader'
+...loading 'shaders/bespin.shader'
+----- finished R_Init -----
+
+------- sound initialization -------
+Cmd_AddCommand: soundstop already defined
+Initializing DirectSound
+locked hardware.  ok
+------------------------------------
+----- Sound Info -----
+sound system is muted
+    1 stereo
+32768 samples
+   16 samplebits
+    1 submission_chunk
+22050 speed
+0x110d86e0 dma buffer
+No background file.
+
+0.01MB audio data:  ( 0.01MB WAV/MP3 ) + ( 0.00MB Music )
+0.01MB in sfx_t alloc data (WAV/MP3) loaded this level
+----------------------
+Loading dll file ui.
+Parsing menu file:ui/jk2mp/main.menu
+Parsing menu file:ui/jk2mp/joinserver.menu
+Parsing menu file:ui/jk2mp/player.menu
+Parsing menu file:ui/jk2mp/createserver.menu
+Parsing menu file:ui/jk2mp/connect.menu
+Parsing menu file:ui/jk2mp/rules.menu
+Parsing menu file:ui/jk2mp/rules_games.menu
+Parsing menu file:ui/jk2mp/rules_force.menu
+Parsing menu file:ui/jk2mp/rules_weapons.menu
+Parsing menu file:ui/jk2mp/rules_items.menu
+Parsing menu file:ui/jk2mp/controls.menu
+Parsing menu file:ui/jk2mp/setup.menu
+Parsing menu file:ui/jk2mp/demo.menu
+Parsing menu file:ui/jk2mp/password.menu
+Parsing menu file:ui/jk2mp/quit.menu
+Parsing menu file:ui/jk2mp/error.menu
+Parsing menu file:ui/jk2mp/serverinfo.menu
+Parsing menu file:ui/jk2mp/findplayer.menu
+Parsing menu file:ui/jk2mp/createfavorite.menu
+Parsing menu file:ui/jk2mp/multiplayer.menu
+Parsing menu file:ui/jk2mp/cdkey.menu
+Parsing menu file:ui/jk2mp/advancedcreateserver.menu
+Parsing menu file:ui/jk2mp/credits.menu
+Parsing menu file:ui/jk2mp/vid_warning.menu
+Parsing menu file:ui/jk2mp/videodriver.menu
+UI menu load time = 2031 milli seconds
+28 bots parsed
+
+================
+Hunk Small log
+================
+size =    12064: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2699 (size)
+size =   108240: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2694 (sizeof( stages[i] ))
+size =   172368: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 2650 (sizeof( shader_t ))
+size =      144: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 621 (sizeof( modelHash_t ))
+size =      544: c:\projects\jk2\code-mp\renderer\tr_model.cpp, line: 578 (sizeof( *tr.models[tr.numModels] ))
+size =       16: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2627 (sizeof( *skin->surfaces ))
+size =      528: c:\projects\jk2\code-mp\renderer\tr_image.cpp, line: 2624 (sizeof( skin_t ))
+size =    25936: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3787 (size * sizeof(char *))
+size =   787728: c:\projects\jk2\code-mp\renderer\tr_shader.cpp, line: 3744 (sum + numShaders*2)
+size =  2505040: c:\projects\jk2\code-mp\renderer\tr_init.cpp, line: 1053 (sizeof( *backEndData[0] ) + sizeof(srfPoly_t) * max_polys + sizeof(polyVert_t) * max_polyverts)
+3612608 Hunk memory
+10 hunk blocks
+----- CL_Shutdown -----
+RE_Shutdown( 0 )
+RE_Shutdown( 1 )
+Shutting down OpenGL subsystem
+...wglMakeCurrent( NULL, NULL ): success
+...deleting GL context: success
+...releasing DC: success
+...destroying window
+...shutting down QGL
+...unloading OpenGL DLL
+-----------------------

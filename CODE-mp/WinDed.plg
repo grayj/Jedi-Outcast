@@ -1,0 +1,119 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: WinDed - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\jmonroe\LOCALS~1\Temp\RSPB2B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /D "DEDICATED" /D "_JK2" /D "BOTLIB" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\projects\jk2\CODE-mp\null\null_glimp.cpp"
+"C:\projects\jk2\CODE-mp\null\null_renderer.cpp"
+"C:\projects\jk2\CODE-mp\null\null_snddma.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\jmonroe\LOCALS~1\Temp\RSPB2B.tmp" 
+Creating temporary file "C:\DOCUME~1\jmonroe\LOCALS~1\Temp\RSPB2C.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib wsock32.lib Winmm.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/WinDed.pdb" /debug /machine:I386 /out:"Debug/WinDed.exe" /pdbtype:sept 
+".\Debug\cm_load.obj"
+".\Debug\cm_patch.obj"
+".\Debug\cm_polylib.obj"
+".\Debug\cm_test.obj"
+".\Debug\cm_trace.obj"
+".\Debug\cmd.obj"
+".\Debug\CNetProfile.obj"
+".\Debug\common.obj"
+".\Debug\cvar.obj"
+".\Debug\files.obj"
+".\Debug\GenericParser2.obj"
+".\Debug\hstring.obj"
+".\Debug\huffman.obj"
+".\Debug\md4.obj"
+".\Debug\msg.obj"
+".\Debug\net_chan.obj"
+".\Debug\q_math.obj"
+".\Debug\q_shared.obj"
+".\Debug\RoffSystem.obj"
+".\Debug\strip.obj"
+".\Debug\unzip.obj"
+".\Debug\vm.obj"
+".\Debug\vm_interpreted.obj"
+".\Debug\vm_x86.obj"
+".\Debug\G2_API.obj"
+".\Debug\G2_bolts.obj"
+".\Debug\G2_bones.obj"
+".\Debug\G2_misc.obj"
+".\Debug\G2_surfaces.obj"
+".\Debug\sv_bot.obj"
+".\Debug\sv_ccmds.obj"
+".\Debug\sv_client.obj"
+".\Debug\sv_game.obj"
+".\Debug\sv_init.obj"
+".\Debug\sv_main.obj"
+".\Debug\sv_net_chan.obj"
+".\Debug\sv_snapshot.obj"
+".\Debug\sv_world.obj"
+".\Debug\null_client.obj"
+".\Debug\null_glimp.obj"
+".\Debug\null_input.obj"
+".\Debug\null_renderer.obj"
+".\Debug\null_snddma.obj"
+".\Debug\win_main.obj"
+".\Debug\matcomp.obj"
+".\Debug\tr_backend.obj"
+".\Debug\tr_ghoul2.obj"
+".\Debug\tr_image.obj"
+".\Debug\tr_init.obj"
+".\Debug\tr_main.obj"
+".\Debug\tr_mesh.obj"
+".\Debug\tr_model.obj"
+".\Debug\tr_shader.obj"
+".\Debug\win_net.obj"
+".\Debug\win_shared.obj"
+".\Debug\be_aas_bspq3.obj"
+".\Debug\be_aas_cluster.obj"
+".\Debug\be_aas_debug.obj"
+".\Debug\be_aas_entity.obj"
+".\Debug\be_aas_file.obj"
+".\Debug\be_aas_main.obj"
+".\Debug\be_aas_move.obj"
+".\Debug\be_aas_optimize.obj"
+".\Debug\be_aas_reach.obj"
+".\Debug\be_aas_route.obj"
+".\Debug\be_aas_routealt.obj"
+".\Debug\be_aas_sample.obj"
+".\Debug\be_ai_char.obj"
+".\Debug\be_ai_chat.obj"
+".\Debug\be_ai_gen.obj"
+".\Debug\be_ai_goal.obj"
+".\Debug\be_ai_move.obj"
+".\Debug\be_ai_weap.obj"
+".\Debug\be_ai_weight.obj"
+".\Debug\be_ea.obj"
+".\Debug\be_interface.obj"
+".\Debug\l_crc.obj"
+".\Debug\l_libvar.obj"
+".\Debug\l_log.obj"
+".\Debug\l_memory.obj"
+".\Debug\l_precomp.obj"
+".\Debug\l_script.obj"
+".\Debug\l_struct.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\jmonroe\LOCALS~1\Temp\RSPB2C.tmp"
+<h3>Output Window</h3>
+Compiling...
+null_glimp.cpp
+null_renderer.cpp
+null_snddma.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+WinDed.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

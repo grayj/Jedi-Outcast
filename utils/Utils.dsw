@@ -1,0 +1,365 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "AnimatEd"=.\AnimatEd\AnimatEd.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/AnimatEd", TLCAAAAA
+    .\animated
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name cmdlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "ConfusEd"=.\ConfusEd\ConfusEd.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/ConfusEd", CKCAAAAA
+    .\confused
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name cmdlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Png2Jpg"=.\png2jpg\Png2Jpg.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/Png2Jpg", ZNFAAAAA
+    .\png2jpg
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name cmdlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name image
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Radiant"=.\q3radiant\Radiant.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/q3radiant", FQBAAAAA
+    .\q3radiant
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name image
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "ShaderEd2"=.\ShaderEd2\ShaderEd2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/ShaderEd2", NNAAAAAA
+    .\shadered2
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name image
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name cmdlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "SklView"=.\SklView\SklView.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/SklView", BCGAAAAA
+    .\sklview
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "cmdlib"=.\libs\cmdlib\cmdlib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/cmdlib", NHCAAAAA
+    .\libs\cmdlib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "ft2"=.\LIBS\ft2\ft2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/ft2", REFAAAAA
+    .\libs\ft2
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "image"=.\libs\image\image.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/image", XGCAAAAA
+    .\libs\image
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name cmdlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name jpeg6
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name png
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tga
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "jpeg6"=.\libs\jpeg6\jpeg6.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/jpeg6", VHCAAAAA
+    .\libs\jpeg6
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "pak"=.\libs\pak\pak.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/pak", QHCAAAAA
+    .\libs\pak
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name zlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "png"=.\libs\png\png.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/png", OGCAAAAA
+    .\libs\png
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name zlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "sof2data"=.\q3data\q3data.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/q3data", DQBAAAAA
+    .\q3data
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name cmdlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name ft2
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name image
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "sof2map"=.\q3map\q3map.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/q3map", EQBAAAAA
+    .\q3map
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name image
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "striped"=.\striped\striped.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/striped", DWEAAAAA
+    .\striped
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "tga"=.\libs\tga\tga.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/tga", TGCAAAAA
+    .\libs\tga
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "zlib"=.\libs\zlib\zlib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/libs/zlib", VECAAAAA
+    .\libs\zlib
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils", INAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

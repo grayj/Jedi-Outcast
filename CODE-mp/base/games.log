@@ -1,0 +1,810 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\JK2MP: v0.57 win-x86-debug Feb 12 2002\dmflags\0\fraglimit\20\timelimit\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_maxclients\8\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk\g_MaxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\0\g_forceBasedTeams\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:13 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\3\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:13 setteam:  0 SPECTATOR FREE
+  0:13 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:13 ClientBegin: 0
+  1:20 ShutdownGame:
+  1:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\version\JK2MP: v0.57 win-x86-debug Feb 15 2002\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk\g_MaxHolocronCarry\3\g_maxForceRank\0\g_forceBasedTeams\0\g_duelWeaponDisable\0\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 setteam:  0 SPECTATOR FREE
+  0:06 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:06 ClientBegin: 0
+  0:09 Item: 0 weapon_thermal
+  0:29 Item: 0 ammo_blaster
+  0:35 Item: 0 ammo_powercell
+  0:38 Item: 0 item_shield
+  0:58 ShutdownGame:
+  0:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\version\JK2MP: v0.57 win-x86-debug Feb 17 2002\g_gametype\0\protocol\15\mapname\ffa_deathstar\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk\g_MaxHolocronCarry\3\g_maxForceRank\0\g_forceBasedTeams\0\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:27 setteam:  0 SPECTATOR SPECTATOR
+  0:27 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\3\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:27 ClientBegin: 0
+  0:32 setteam:  0 SPECTATOR FREE
+  0:32 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:32 ClientBegin: 0
+  0:35 Item: 0 item_shield_sm_instant
+  0:36 Item: 0 item_shield_sm_instant
+  0:36 Item: 0 item_shield_sm_instant
+  0:41 Kill: 0 0 34: UnnamedPlayer killed UnnamedPlayer by MOD_FALLING
+  1:13 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:31 ShutdownGame:
+  1:31 ------------------------------------------------------------
+  1:31 ------------------------------------------------------------
+  1:31 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\version\JK2MP: v0.57 win-x86-debug Feb 17 2002\g_gametype\0\protocol\15\mapname\ffa_deathstar\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk\g_MaxHolocronCarry\3\g_maxForceRank\0\g_forceBasedTeams\0\g_needpass\0
+  1:31 ClientConnect: 0
+  1:31 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:31 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:31 ClientBegin: 0
+  1:42 Item: 0 item_shield_sm_instant
+  1:43 Item: 0 item_shield_sm_instant
+  1:43 Item: 0 item_shield_sm_instant
+  1:48 Item: 0 ammo_metallic_bolts
+  2:01 Item: 0 weapon_repeater
+  3:39 Item: 0 item_shield_lrg_instant
+  3:54 Item: 0 ammo_metallic_bolts
+  3:54 Item: 0 weapon_flechette
+  3:58 Item: 0 item_medpak_instant
+  4:03 Item: 0 ammo_blaster
+  4:09 Item: 0 weapon_bowcaster
+  4:09 Item: 0 ammo_powercell
+  4:19 Item: 0 weapon_disruptor
+  4:19 Item: 0 ammo_powercell
+  4:22 ShutdownGame:
+  4:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_maxForceRank\6\g_forceBasedTeams\0\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  2:15 ClientConnect: 0
+  2:15 ClientUserinfoChanged: 0 n\Luke\t\0\model\Luke\hmodel\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  2:15 ClientBegin: 0
+  2:20 Item: 0 ammo_blaster
+  2:56 Item: 0 weapon_repeater
+  3:01 Item: 0 weapon_blaster
+  3:15 Item: 0 item_medpac
+  3:27 Item: 0 ammo_blaster
+  3:30 Item: 0 ammo_metallic_bolts
+  4:01 Item: 0 item_shield_sm_instant
+  4:01 Item: 0 item_shield_sm_instant
+  4:15 Item: 0 ammo_metallic_bolts
+  4:46 Item: 0 item_shield_sm_instant
+  6:31 ClientConnect: 1
+  6:31 ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  9:14 ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  9:14 ClientDisconnect: 1
+  9:43 ClientConnect: 1
+  9:43 ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:02 ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:02 ClientBegin: 1
+ 10:39 ClientConnect: 2
+ 10:39 ClientUserinfoChanged: 2 n\Luke\t\0\model\Luke\hmodel\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+ 10:39 ClientBegin: 2
+ 10:44 Item: 2 ammo_blaster
+ 10:49 setteam:  1 SPECTATOR FREE
+ 10:49 ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 10:49 ClientBegin: 1
+ 11:21 ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Empire\g_blueteam\Rebellion\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:24 Kill: 2 1 3: Luke killed Padawan by MOD_SABER
+ 11:28 say: Luke: The Force is my guide.
+ 11:41 Item: 2 item_shield_sm_instant
+ 11:41 Item: 2 item_shield_sm_instant
+ 11:48 Item: 2 item_sentry_gun
+ 11:52 Item: 1 ammo_blaster
+ 11:56 Item: 2 item_shield_lrg_instant
+ 12:01 Item: 0 weapon_flechette
+ 12:01 Item: 1 ammo_blaster
+ 12:02 Item: 2 item_medpac
+ 12:04 ClientDisconnect: 1
+ 12:11 Item: 2 weapon_disruptor
+ 12:20 Item: 0 item_shield_sm_instant
+ 12:21 Item: 0 item_shield_sm_instant
+ 12:21 Item: 0 item_shield_sm_instant
+ 12:41 Kill: 0 2 16: Luke killed Luke by MOD_FLECHETTE
+ 12:43 Kill: 2 0 28: Luke killed Luke by MOD_SENTRY
+ 12:44 say: Luke: The Force is my guide.
+ 12:44 say: Luke: The Force is strong in you, Luke.
+ 12:46 Item: 2 ammo_powercell
+ 12:51 Item: 0 item_shield
+ 13:09 Item: 0 ammo_blaster
+ 13:14 Item: 2 weapon_thermal
+ 13:40 Item: 0 item_shield_sm_instant
+ 13:40 Item: 0 item_shield_sm_instant
+ 13:52 Item: 0 item_shield
+ 13:52 Item: 2 ammo_powercell
+ 14:06 Item: 2 ammo_blaster
+ 14:19 Item: 2 weapon_thermal
+ 14:31 Kill: 2 0 3: Luke killed Luke by MOD_SABER
+ 14:33 say: Luke: The Force is my guide.
+ 14:34 say: Luke: It s not my fault!
+ 14:53 Kill: 0 2 3: Luke killed Luke by MOD_SABER
+ 15:12 Item: 0 weapon_repeater
+ 15:17 Item: 0 weapon_blaster
+ 15:20 Item: 2 ammo_blaster
+ 15:23 Item: 0 item_medpak_instant
+ 15:32 Item: 0 item_medpac
+ 15:41 Item: 2 weapon_bowcaster
+ 15:41 ShutdownGame:
+ 15:41 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientDisconnect: 0
+  0:25 ShutdownGame:
+  0:25 ------------------------------------------------------------
+  0:25 ------------------------------------------------------------
+  0:25 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  0:26 ClientConnect: 0
+  0:26 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:26 ClientDisconnect: 0
+  0:54 ShutdownGame:
+  0:54 ------------------------------------------------------------
+  0:54 ------------------------------------------------------------
+  0:54 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  0:54 ClientConnect: 0
+  0:54 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:55 ClientDisconnect: 0
+  0:55 ShutdownGame:
+  0:55 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:47 say: Em0r0g: ui_hu
+  0:50 say: Em0r0g: ui_load
+  0:51 say: Em0r0g: ui_load
+  5:42 ClientUserinfoChanged: 0 n\Em0r0g\t\3\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:52 ShutdownGame:
+  5:52 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 ClientUserinfoChanged: 0 n\Em0r0g\t\3\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:06 setteam:  0 SPECTATOR FREE
+  0:06 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:06 ClientBegin: 0
+  0:12 Item: 0 ammo_blaster
+  0:49 Item: 0 item_shield
+  1:03 ShutdownGame:
+  1:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.00a win-x86-debug Feb 22 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:17 ClientUserinfoChanged: 0 n\Em0r0g\t\3\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:21 setteam:  0 SPECTATOR FREE
+  0:21 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:21 ClientBegin: 0
+  0:45 Item: 0 ammo_powercell
+  0:52 ClientConnect: 1
+  0:52 ClientUserinfoChanged: 1 n\Tavion\t\0\model\Tavion\hmodel\Tavion\c1\0\c2\5\hc\100\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:52 ClientBegin: 1
+  0:52 Item: 1 item_shield
+  0:56 Item: 1 ammo_powercell
+  1:00 Item: 0 ammo_blaster
+  1:03 Item: 1 ammo_blaster
+  1:04 Item: 0 ammo_blaster
+  1:09 Item: 1 weapon_thermal
+  1:11 Item: 0 weapon_bowcaster
+  1:17 Item: 1 item_shield_sm_instant
+  1:17 Item: 1 item_shield_sm_instant
+  1:34 Kill: 1 0 3: Tavion killed Em0r0g by MOD_SABER
+  1:38 ShutdownGame:
+  1:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\pit\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 setteam:  0 SPECTATOR FREE
+  0:03 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 0
+  0:21 ShutdownGame:
+  0:21 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\pit\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:12 setteam:  0 SPECTATOR FREE
+  0:12 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:12 ClientBegin: 0
+  0:28 ShutdownGame:
+  0:28 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\pit\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:46 setteam:  0 SPECTATOR FREE
+  0:46 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:46 ClientBegin: 0
+  0:47 ShutdownGame:
+  0:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\pit\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:28 ShutdownGame:
+  0:28 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:22 ClientConnect: 0
+  0:22 ClientUserinfoChanged: 0 n\Desann\t\0\model\Desann\hmodel\Desann\c1\0\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  0:22 ClientBegin: 0
+  0:46 ClientConnect: 1
+  0:46 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:00 Item: 0 ammo_metallic_bolts
+  1:32 Item: 0 item_shield_sm_instant
+  1:33 Item: 0 item_shield_sm_instant
+  1:43 Item: 0 ammo_blaster
+  1:47 Item: 0 ammo_metallic_bolts
+  1:47 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:47 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:47 ClientBegin: 1
+  1:48 ClientUserinfoChanged: 1 n\^5Em0r0g\t\3\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:59 ClientConnect: 2
+  1:59 ClientUserinfoChanged: 2 n\Jan\t\0\model\Jan\hmodel\Jan\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  1:59 ClientBegin: 2
+  2:01 Item: 2 ammo_powercell
+  2:07 Item: 2 ammo_blaster
+  2:17 Item: 0 item_shield_sm_instant
+  2:20 ClientDisconnect: 1
+  2:21 Item: 2 item_shield_sm_instant
+  2:21 Item: 2 item_shield_sm_instant
+  2:28 Item: 2 item_sentry_gun
+  2:31 ShutdownGame:
+  2:31 ------------------------------------------------------------
+  2:31 ------------------------------------------------------------
+  2:31 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  2:31 ClientConnect: 0
+  2:31 ClientUserinfoChanged: 0 n\Desann\t\0\model\Desann\hmodel\Desann\c1\0\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  2:31 ClientBegin: 0
+  2:31 ClientConnect: 2
+  2:31 ClientUserinfoChanged: 2 n\Jan\t\0\model\Jan\hmodel\Jan\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  2:31 ClientBegin: 2
+  2:31 Item: 2 item_shield
+  2:41 Item: 0 item_shield_sm_instant
+  2:43 Item: 2 ammo_powercell
+  2:49 Item: 2 ammo_blaster
+  3:00 Kill: 0 2 27: Desann killed Jan by MOD_FORCE_DARK
+  3:04 say: Jan: Unbelievable!
+  3:07 Item: 2 ammo_metallic_bolts
+  3:11 Item: 0 weapon_repeater
+  3:11 Item: 2 weapon_flechette
+  3:16 Item: 0 weapon_blaster
+  3:30 Item: 0 item_medpac
+  3:40 Kill: 0 2 3: Desann killed Jan by MOD_SABER
+  3:43 Item: 2 weapon_repeater
+  3:47 Item: 0 item_shield_sm_instant
+  3:47 Item: 0 item_shield_sm_instant
+  3:49 Item: 2 item_shield_sm_instant
+  3:49 Item: 2 item_shield_sm_instant
+  3:56 Item: 2 item_sentry_gun
+  4:03 Item: 0 ammo_blaster
+  4:04 Item: 2 item_shield_lrg_instant
+  4:07 Item: 0 ammo_metallic_bolts
+  4:10 Item: 2 ammo_powercell
+  4:14 ShutdownGame:
+  4:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  1:04 ShutdownGame:
+  1:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  1:46 ClientConnect: 0
+  1:46 ClientUserinfoChanged: 0 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:55 ClientUserinfoChanged: 0 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:55 ClientUserinfoChanged: 0 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:55 ClientBegin: 0
+  2:01 setteam:  0 SPECTATOR FREE
+  2:01 ClientUserinfoChanged: 0 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:01 ClientBegin: 0
+  2:09 ClientConnect: 1
+  2:09 ClientUserinfoChanged: 1 n\Jan\t\0\model\Jan\hmodel\Jan\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  2:09 ClientBegin: 1
+  2:11 say: Jan: Hello all!
+  2:13 Item: 1 ammo_powercell
+  2:27 Kill: 1 0 3: Jan killed ^5Em0r0g by MOD_SABER
+  2:32 ClientDisconnect: 0
+  2:34 Item: 1 ammo_blaster
+  3:10 Item: 1 weapon_repeater
+  3:15 Item: 1 weapon_blaster
+  3:29 Item: 1 item_shield_sm_instant
+  3:29 Item: 1 item_shield_sm_instant
+  3:41 Item: 1 weapon_rocket_launcher
+  3:54 Item: 1 item_shield_sm_instant
+  4:00 Item: 1 item_medpac
+  4:28 Item: 1 ammo_powercell
+  4:32 Item: 1 ammo_blaster
+  4:36 Item: 1 ammo_metallic_bolts
+  4:41 Item: 1 weapon_flechette
+  4:46 ClientConnect: 0
+  4:46 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  4:51 Item: 1 weapon_disruptor
+  4:52 ClientConnect: 2
+  4:52 ClientUserinfoChanged: 2 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:13 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:13 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:13 ClientBegin: 0
+  5:22 Item: 1 weapon_trip_mine
+  5:32 Item: 1 ammo_powercell
+  5:45 Item: 1 item_sentry_gun
+  6:00 Item: 1 weapon_thermal
+  6:02 ClientUserinfoChanged: 2 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:02 ClientUserinfoChanged: 2 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:02 ClientBegin: 2
+  6:13 ClientConnect: 3
+  6:13 ClientUserinfoChanged: 3 n\Luke\t\0\model\Luke\hmodel\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  6:13 ClientBegin: 3
+  6:19 Item: 3 ammo_blaster
+  6:21 setteam:  2 SPECTATOR FREE
+  6:21 ClientUserinfoChanged: 2 n\^5Em0r0g\t\0\model\desann/default\hmodel\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  6:21 ClientBegin: 2
+  6:30 Item: 3 weapon_bowcaster
+  6:40 ClientConnect: 4
+  6:40 ClientUserinfoChanged: 4 n\Jan\t\0\model\Jan\hmodel\Jan\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  6:40 ClientBegin: 4
+  6:46 ClientDisconnect: 0
+  7:06 Kill: 1 3 22: Jan killed Luke by MOD_THERMAL
+  7:08 ClientDisconnect: 2
+  7:09 say: Luke: It s not my fault!
+  7:12 Item: 3 ammo_metallic_bolts
+  7:19 Item: 1 weapon_bowcaster
+  7:30 Kill: 3 4 3: Luke killed Jan by MOD_SABER
+  7:34 say: Luke: If you continue to attack me, you will continue to lose.
+  7:37 Item: 1 weapon_thermal
+  7:38 Item: 4 item_shield_sm_instant
+  7:38 Item: 4 item_shield_sm_instant
+  7:41 Item: 3 weapon_flechette
+  7:45 Item: 4 item_sentry_gun
+  7:48 Item: 3 item_medpac
+  7:52 Kill: 3 4 16: Luke killed Jan by MOD_FLECHETTE
+  8:04 Item: 1 item_shield_sm_instant
+  8:04 Item: 4 ammo_blaster
+  8:04 Item: 1 item_shield_sm_instant
+  8:22 Item: 4 weapon_thermal
+  8:27 Item: 3 item_shield_sm_instant
+  8:28 Item: 3 item_shield_sm_instant
+  8:53 Item: 3 item_sentry_gun
+  8:55 Item: 4 item_shield_sm_instant
+  8:56 Item: 4 item_shield_sm_instant
+  9:03 Item: 1 ammo_powercell
+  9:05 Kill: 4 3 3: Jan killed Luke by MOD_SABER
+  9:07 Item: 1 item_shield
+  9:10 say: Jan: Next time, I recommend hiding from me.
+  9:15 Item: 3 ammo_blaster
+  9:19 Item: 3 ammo_metallic_bolts
+  9:26 Item: 4 item_shield_lrg_instant
+  9:32 Item: 4 ammo_powercell
+  9:32 Item: 3 weapon_flechette
+  9:35 Item: 1 item_medpac
+  9:42 Item: 3 ammo_metallic_bolts
+  9:45 Item: 3 weapon_trip_mine
+  9:45 Item: 4 weapon_flechette
+  9:48 Item: 3 ammo_blaster
+  9:58 Kill: 3 1 16: Luke killed Jan by MOD_FLECHETTE
+ 10:06 Item: 4 item_shield
+ 10:07 Item: 1 item_shield_sm_instant
+ 10:07 Item: 1 item_shield_sm_instant
+ 10:09 Item: 3 ammo_metallic_bolts
+ 10:14 Item: 1 item_sentry_gun
+ 10:24 Item: 1 item_shield_lrg_instant
+ 10:30 Item: 1 ammo_powercell
+ 10:34 Item: 1 ammo_blaster
+ 10:44 Item: 1 weapon_flechette
+ 10:51 Item: 4 weapon_rocket_launcher
+ 10:57 Kill: 3 4 16: Luke killed Jan by MOD_FLECHETTE
+ 11:00 say: Jan: Unbelievable!
+ 11:02 Item: 3 weapon_rocket_launcher
+ 11:07 Item: 4 item_shield_sm_instant
+ 11:08 Item: 4 item_shield_sm_instant
+ 11:09 Kill: 1 3 16: Jan killed Luke by MOD_FLECHETTE
+ 11:10 Item: 1 item_shield
+ 11:16 Item: 3 item_sentry_gun
+ 11:20 Item: 1 weapon_rocket_launcher
+ 11:32 Kill: 3 4 3: Luke killed Jan by MOD_SABER
+ 11:33 Item: 1 item_shield_sm_instant
+ 11:39 Item: 1 item_medpac
+ 11:43 Item: 3 item_shield_lrg_instant
+ 11:49 Item: 3 ammo_powercell
+ 11:54 Item: 3 ammo_blaster
+ 11:58 Item: 3 ammo_metallic_bolts
+ 12:15 Item: 4 item_shield
+ 12:26 Item: 4 weapon_rocket_launcher
+ 12:27 Item: 1 weapon_blaster
+ 12:32 Item: 1 weapon_repeater
+ 12:39 Item: 3 weapon_flechette
+ 12:42 Item: 3 ammo_metallic_bolts
+ 13:04 Item: 1 weapon_bowcaster
+ 13:08 Kill: 3 4 16: Luke killed Jan by MOD_FLECHETTE
+ 13:12 say: Luke: If you continue to attack me, you will continue to lose.
+ 13:15 Item: 4 item_shield_sm_instant
+ 13:16 Item: 4 item_shield_sm_instant
+ 13:28 Item: 4 item_sentry_gun
+ 13:36 Item: 3 item_medpac
+ 13:36 Item: 4 item_shield_lrg_instant
+ 13:42 Item: 1 item_shield_sm_instant
+ 13:42 Item: 1 item_shield_sm_instant
+ 13:44 Item: 4 ammo_powercell
+ 13:51 Item: 4 ammo_blaster
+ 13:51 Item: 3 item_shield_sm_instant
+ 13:51 Item: 3 item_shield_sm_instant
+ 13:51 Item: 3 item_shield_sm_instant
+ 13:55 Item: 4 ammo_metallic_bolts
+ 13:56 Item: 3 weapon_disruptor
+ 13:59 Item: 4 weapon_flechette
+ 14:09 Item: 1 item_medpac
+ 14:38 Item: 4 weapon_rocket_launcher
+ 14:45 Kill: 4 4 34: Jan killed Jan by MOD_FALLING
+ 14:52 Item: 1 ammo_metallic_bolts
+ 15:03 Kill: 1 3 16: Jan killed Luke by MOD_FLECHETTE
+ 15:04 Item: 3 item_shield
+ 15:07 Item: 4 ammo_blaster
+ 15:07 say: Jan: Even I was impressed with that one!
+ 15:09 Item: 3 ammo_powercell
+ 15:18 Item: 1 ammo_metallic_bolts
+ 15:21 Item: 1 weapon_trip_mine
+ 15:24 Item: 1 ammo_blaster
+ 15:31 Item: 1 ammo_powercell
+ 15:33 ClientConnect: 0
+ 15:33 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 15:38 Item: 1 item_medpac
+ 15:43 Item: 1 item_sentry_gun
+ 15:47 Item: 4 weapon_repeater
+ 15:52 Item: 4 weapon_blaster
+ 15:59 Item: 3 item_shield_sm_instant
+ 15:59 Item: 3 item_shield_sm_instant
+ 16:05 Item: 1 item_medpac
+ 16:06 Item: 4 item_shield_sm_instant
+ 16:06 Item: 4 item_shield_sm_instant
+ 16:10 ShutdownGame:
+ 16:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  0:36 ClientConnect: 0
+  0:36 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:51 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:51 ClientBegin: 0
+  0:52 ClientUserinfoChanged: 0 n\Padawan\t\3\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:31 setteam:  0 SPECTATOR FREE
+  1:31 ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:31 ClientBegin: 0
+  1:41 say: Padawan: hmodel
+  3:26 ClientUserinfoChanged: 0 n\Emorog\t\0\model\kyle\hmodel\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  3:49 ClientConnect: 1
+  3:49 ClientUserinfoChanged: 1 n\Luke\t\0\model\Luke\hmodel\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\    4.00\tt\0\tl\0
+  3:49 ClientBegin: 1
+  3:52 say: Luke: Hello, may I join?
+  3:54 Item: 1 ammo_powercell
+  4:00 Item: 1 ammo_blaster
+  4:04 ClientDisconnect: 0
+  4:14 Item: 1 item_shield_sm_instant
+  4:14 Item: 1 item_shield_sm_instant
+  4:20 ShutdownGame:
+  4:20 ------------------------------------------------------------
+  4:20 ------------------------------------------------------------
+  4:20 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\sv_hostname\crash testing\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\8\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  4:20 ClientConnect: 1
+  4:20 ClientUserinfoChanged: 1 n\Luke\t\0\model\Luke\hmodel\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\    4.00\tt\0\tl\0
+  4:20 ClientBegin: 1
+  4:34 Item: 1 item_shield_sm_instant
+  4:34 Item: 1 item_shield_sm_instant
+  4:41 Item: 1 item_sentry_gun
+  4:49 Item: 1 item_shield_lrg_instant
+  4:55 Item: 1 ammo_powercell
+  4:59 Item: 1 ammo_blaster
+  5:03 Item: 1 ammo_metallic_bolts
+  5:47 Item: 1 ammo_metallic_bolts
+  5:51 ShutdownGame:
+  5:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\8\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\crash testing\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 25 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 Warmup:
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 setteam:  0 SPECTATOR FREE
+  0:06 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:06 ClientBegin: 0
+  0:14 Item: 0 weapon_blaster
+  0:27 ShutdownGame:
+  0:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-linux v1.00\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 26 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_deathstar\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-linux v1.00\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 26 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_deathstar\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:37 ClientConnect: 0
+  0:37 ClientUserinfoChanged: 0 n\Luke\t\0\model\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  0:37 ClientBegin: 0
+  0:39 Item: 0 item_medpac
+  0:44 Item: 0 ammo_metallic_bolts
+  0:52 Item: 0 item_shield_sm_instant
+  0:53 Item: 0 item_shield_sm_instant
+  0:55 Item: 0 weapon_bowcaster
+  0:55 Item: 0 ammo_powercell
+  1:06 Item: 0 ammo_blaster
+  1:06 Item: 0 weapon_blaster
+  1:07 Item: 0 ammo_blaster
+  1:11 ClientConnect: 1
+  1:11 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:17 Item: 0 item_shield_sm_instant
+  1:23 Item: 0 weapon_thermal
+  1:26 Item: 0 item_sentry_gun
+  1:42 Item: 0 item_shield_lrg_instant
+  1:51 Item: 0 weapon_rocket_launcher
+  1:52 Item: 0 ammo_rockets
+  2:02 Item: 0 item_shield_lrg_instant
+  2:08 Item: 0 weapon_thermal
+  2:18 Item: 0 ammo_metallic_bolts
+  2:18 Item: 0 weapon_flechette
+  2:21 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\kyle\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:21 ClientDisconnect: 1
+  2:40 ClientConnect: 1
+  2:40 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:44 Item: 0 item_shield
+  2:52 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:52 ClientBegin: 1
+  2:53 ClientUserinfoChanged: 1 n\^5Em0r0g\t\3\model\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:55 setteam:  1 SPECTATOR FREE
+  2:55 ClientUserinfoChanged: 1 n\^5Em0r0g\t\0\model\kyle\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:55 ClientBegin: 1
+  3:06 Kill: 0 1 20: Luke killed ^5Em0r0g by MOD_ROCKET_HOMING
+  3:08 Item: 1 weapon_flechette
+  3:08 Item: 1 ammo_metallic_bolts
+  3:10 say: Luke: If you continue to attack me, you will continue to lose.
+  3:22 ClientConnect: 2
+  3:22 ClientUserinfoChanged: 2 n\Luke\t\0\model\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  3:22 ClientBegin: 2
+  3:23 Item: 2 weapon_flechette
+  3:26 Item: 1 item_medpak_instant
+  3:28 Kill: 2 1 16: Luke killed ^5Em0r0g by MOD_FLECHETTE
+  3:38 Item: 1 ammo_blaster
+  3:38 Item: 2 weapon_flechette
+  3:38 Item: 1 weapon_blaster
+  3:42 Item: 1 weapon_bowcaster
+  3:44 Item: 0 item_shield_sm_instant
+  3:47 Item: 0 item_shield_sm_instant
+  3:51 Kill: 0 2 28: Luke killed Luke by MOD_SENTRY
+  3:53 Item: 2 weapon_flechette
+  3:53 Item: 2 ammo_metallic_bolts
+  3:56 Item: 1 item_shield_sm_instant
+  3:57 Kill: 0 1 16: Luke killed ^5Em0r0g by MOD_FLECHETTE
+  3:59 Item: 0 weapon_flechette
+  4:00 ClientDisconnect: 1
+  4:01 Kill: 2 0 16: Luke killed Luke by MOD_FLECHETTE
+  4:03 ShutdownGame:
+  4:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 26 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_deathstar\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:43 ShutdownGame:
+  0:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-dedicated v1.01\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 26 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_deathstar\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-dedicated v1.01\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 26 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  5:43 ShutdownGame:
+  5:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 26 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 setteam:  0 SPECTATOR FREE
+  0:04 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:04 ClientBegin: 0
+  0:21 ShutdownGame:
+  0:21 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 setteam:  0 SPECTATOR FREE
+  0:03 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:03 ClientBegin: 0
+  0:36 Item: 0 ammo_blaster
+  0:47 Item: 0 ammo_blaster
+  0:51 Item: 0 ammo_metallic_bolts
+  0:54 Item: 0 weapon_flechette
+  2:49 Item: 0 ammo_metallic_bolts
+  3:21 Item: 0 weapon_bowcaster
+  3:27 ShutdownGame:
+  3:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientDisconnect: 0
+  0:34 ShutdownGame:
+  0:34 ------------------------------------------------------------
+  0:34 ------------------------------------------------------------
+  0:34 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\1\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  0:35 ClientConnect: 0
+  0:35 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:35 ClientBegin: 0
+  0:42 setteam:  0 SPECTATOR FREE
+  0:42 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:42 ClientBegin: 0
+  0:48 Item: 0 ammo_blaster
+  0:59 ShutdownGame:
+  0:59 ------------------------------------------------------------
+  0:59 ------------------------------------------------------------
+  0:59 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\1\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  0:59 ClientConnect: 0
+  0:59 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:00 ClientBegin: 0
+  3:17 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  3:38 ShutdownGame:
+  3:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-dedicated v1.01\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\mikeg/weaps\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:01 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\desann/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:01 ClientBegin: 0
+  0:01 ClientUserinfoChanged: 0 n\Em0r0g\t\3\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:56 setteam:  0 SPECTATOR FREE
+  0:56 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:56 ClientBegin: 0
+  0:59 Item: 0 item_shield
+  0:59 Item: 0 item_shield_sm_instant
+  1:00 Item: 0 item_binoculars
+  1:00 Item: 0 item_medpac
+  2:34 ShutdownGame:
+  2:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\mikeg/weaps\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:01 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:01 ClientBegin: 0
+  0:22 setteam:  0 SPECTATOR FREE
+  0:22 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:22 ClientBegin: 0
+  0:44 ShutdownGame:
+  0:44 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-dedicated v1.01\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 27 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\pit\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 setteam:  0 SPECTATOR FREE
+  0:02 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:02 ClientBegin: 0
+  1:02 ShutdownGame:
+  1:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:20 ShutdownGame:
+  0:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:09 ClientConnect: 0
+  0:09 ClientUserinfoChanged: 0 n\Luke\t\0\model\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  0:09 ClientBegin: 0
+  0:13 Item: 0 ammo_blaster
+  0:16 ShutdownGame:
+  0:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-dedicated v1.01\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:13 ShutdownGame:
+  0:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\pit\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 ShutdownGame:
+  0:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  1:21 ClientConnect: 0
+  1:21 ClientUserinfoChanged: 0 n\Luke\t\0\model\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  1:21 ClientBegin: 0
+  1:57 Item: 0 weapon_rocket_launcher
+  2:19 Item: 0 ammo_powercell
+  2:23 Item: 0 ammo_blaster
+  2:27 Item: 0 ammo_metallic_bolts
+  2:31 Item: 0 weapon_flechette
+  2:42 ShutdownGame:
+  2:42 ------------------------------------------------------------
+  2:42 ------------------------------------------------------------
+  2:42 InitGame: \g_forceBasedTeams\0\g_maxForceRank\6\duel_fraglimit\10\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\200\g_saberLocking\1\g_privateDuel\0\g_maxGameClients\0\sv_maxclients\8\timelimit\20\fraglimit\20\dmflags\0\sv_hostname\jkii-dedicated v1.01\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Pagans\g_blueTeam\Stroggs\capturelimit\20\g_duelWeaponDisable\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\basejk
+  2:42 ClientConnect: 0
+  2:42 ClientUserinfoChanged: 0 n\Luke\t\0\model\Luke\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  2:42 ClientBegin: 0
+  2:51 ShutdownGame:
+  2:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_duelWeaponDisable\0\capturelimit\20\g_blueTeam\Stroggs\g_redTeam\Pagans\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_hostname\jkii-dedicated v1.01\dmflags\0\fraglimit\20\timelimit\20\sv_maxclients\8\g_maxGameClients\0\g_privateDuel\0\g_saberLocking\1\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\duel_fraglimit\10\g_maxForceRank\6\g_forceBasedTeams\0\version\JK2MP: v1.01 win-x86-debug Feb 28 2002\g_maxHolocronCarry\3\g_needpass\0\g_gametype\0\protocol\15\mapname\ffa_bespin\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\basejk
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:23 setteam:  0 SPECTATOR FREE
+  0:23 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\lando/default\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:23 ClientBegin: 0
+  0:31 Item: 0 ammo_blaster
+  0:39 Item: 0 ammo_powercell
+  0:43 Item: 0 item_shield
+  1:16 Item: 0 ammo_blaster
+  1:25 Item: 0 ammo_metallic_bolts
+  1:31 Item: 0 weapon_flechette
+  1:50 Item: 0 item_medpac
+  2:31 Item: 0 weapon_rocket_launcher
+  2:47 Item: 0 ammo_powercell
+  2:56 Item: 0 ammo_blaster
+  3:04 Item: 0 item_shield
+  3:56 ClientConnect: 1
+  3:56 ClientUserinfoChanged: 1 n\Desann\t\0\model\Desann\c1\0\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  3:56 ClientBegin: 1
+  4:00 Item: 1 weapon_blaster
+  4:31 Item: 1 ammo_blaster
+  4:38 Item: 1 weapon_thermal
+  4:41 Kill: 1 0 3: Desann killed Em0r0g by MOD_SABER
+  4:48 Item: 1 item_shield_sm_instant
+  4:48 Item: 1 item_shield_sm_instant
+  4:54 Item: 1 item_sentry_gun
+  5:02 Item: 1 item_shield_lrg_instant
+  5:12 ClientUserinfoChanged: 0 n\Em0r0g\t\0\model\morgan/default_mp\g_redteam\Pagans\g_blueteam\Stroggs\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:14 Kill: 1 0 3: Desann killed Em0r0g by MOD_SABER
+  5:17 Item: 1 ammo_powercell
+  5:20 Item: 1 ammo_blaster
+  5:26 Item: 1 weapon_trip_mine
+  5:29 Item: 1 ammo_metallic_bolts
+  5:29 Item: 0 item_shield
+  5:32 Item: 0 ammo_powercell
+  5:38 Item: 1 weapon_flechette
+  5:41 Item: 1 ammo_metallic_bolts
+  5:52 Item: 1 weapon_disruptor
+  6:28 Item: 1 item_medpac
+  6:34 Item: 1 item_medpak_instant
+  6:35 Item: 1 item_medpak_instant
+  6:45 Item: 1 weapon_repeater
+  7:02 Item: 0 ammo_blaster
+  7:05 Kill: 1 0 16: Desann killed Em0r0g by MOD_FLECHETTE
+  7:17 Kill: 1 0 7: Desann killed Em0r0g by MOD_DISRUPTOR
+  7:31 Item: 1 weapon_thermal
+  7:44 Item: 1 ammo_powercell
+  7:46 Kill: 1 0 3: Desann killed Em0r0g by MOD_SABER
+  7:49 Item: 1 item_shield
+  8:06 Item: 1 ammo_rockets
+  8:44 say: Em0r0g: quit
+  8:46 ShutdownGame:
+  8:46 ------------------------------------------------------------

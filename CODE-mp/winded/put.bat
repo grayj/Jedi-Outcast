@@ -1,0 +1,1 @@
+@echo use installvms instead

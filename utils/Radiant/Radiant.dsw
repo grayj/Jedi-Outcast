@@ -1,0 +1,56 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Radiant"=.\Radiant.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/Radiant", GKOAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name pak
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "pak"=..\Libs\pak\pak.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/Libs/pak", UKNAAAAA
+    ..\libs\pak
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Utils/Radiant", GKOAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

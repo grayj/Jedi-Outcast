@@ -1,0 +1,13 @@
+-o "ui"
+ui_main
+..\ui_syscalls
+ui_atoms
+ui_force
+ui_util
+ui_shared
+ui_gameinfo
+bg_misc
+bg_weapons
+bg_lib
+q_math
+q_shared
